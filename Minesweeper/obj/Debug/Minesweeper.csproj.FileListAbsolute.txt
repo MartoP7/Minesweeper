@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Admin\Desktop\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Projects\VisualStudioProjects\MyProjectsCS\Minesweeper\obj\Debug\Minesweeper.pdb
